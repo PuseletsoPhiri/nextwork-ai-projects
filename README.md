@@ -1,3 +1,5 @@
+<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+
 # NextWork AI Projects
 
 Hands-on AI projects I'm building through [NextWork](https://www.nextwork.org), following the **AI Beginner Roadmap** learnlist. It covers AI agents, workflow automation, and shipping real things with AI tools. Each project has its own folder with a README explaining what I built, what went wrong, and what I learned.
