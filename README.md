@@ -10,7 +10,7 @@ This sits alongside my [AWS Cloud Portfolio](https://github.com/PuseletsoPhiri/a
 
 | # | Project | Tools | Status | Details |
 |---|---------|-------|--------|---------|
-| 1 | [Ship a Landing Page with v0 and Vercel](https://nextwork.ai/projects/065fd851-4e5d-5bd2-828b-d653483d86a9) | v0, Vercel, GitHub | ✅ Done | [Project folder](ship-landing-page-v0-vercel) |
+| 1 | [Ship a Landing Page with v0 and Vercel](https://nextwork.ai/projects/065fd851-4e5d-5bd2-828b-d653483d86a9) | v0, Vercel, GitHub | ✅ Done | [Project folder](ship-landing-page-v0-and-vercel) |
 | 2 | [Automate Your Calendar with AI](https://nextwork.ai/projects/6ac4b62d-0558-51eb-a3cc-89522aa5cf45) | n8n, ChatGPT (OpenAI), Google Calendar | ✅ Done | [Project folder](automate-calendar-n8n) |
 | 3 | [Build a Blog Writing Crew with CrewAI](https://nextwork.ai/projects/99b558af-381c-5c9e-afef-a2d5e19992c0) | CrewAI, Python, Google Gemini | 🔄 In progress | [Project folder](blog-writing-crew-crewai) |
 
