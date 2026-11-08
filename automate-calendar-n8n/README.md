@@ -2,6 +2,11 @@
 
 # AUTOMATE YOUR CALENDAR WITH AI
 
+**Project Link:** [View Project](https://nextwork.ai/projects/6ac4b62d-0558-51eb-a3cc-89522aa5cf45)
+
+**Author:** khalabiphiri@protonmail.com  
+**Email:** khalabiphiri@protonmail.com
+
 ## Introducing Today's Project!
 
 In this project, I will demonstrate AI workflow automation. I'm doing this project to learn how to use n8n to create automated workflows for scheduling events in my Google Calendar
