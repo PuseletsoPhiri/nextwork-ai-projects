@@ -23,7 +23,7 @@ Built an e-commerce landing page by describing it in plain English, letting v0 g
 Built an n8n workflow where a chat message such as "book a meeting tomorrow at 3pm" becomes a real Google Calendar event. Covers workflow triggers, the AI Agent node, tools, `$fromAI()` expressions, and system messages.
 
 **3. Build a Blog Writing Crew with CrewAI**
-Built a multi-agent system where a Researcher, a Writer, and an Editor work in sequence to produce a blog post, using CrewAI and the free tier of Google Gemini. Covers defining agents and tasks in YAML, chaining tasks in Python, and running a crew that saves its output as a markdown file.
+Built a multi-agent system where a Researcher, a Writer, and an Editor work in sequence to produce a blog post on any topic, using CrewAI and the free tier of Google Gemini. I used the newer JSONC-based project template instead of the older YAML-based one shown in the NextWork guide, so the agents, tasks, and workflow are defined in JSONC files and the crew runs through the CrewAI CLI. I also completed the extension, adding a Social Media Manager agent that turns the finished post into a Twitter/X thread and a LinkedIn post. The main challenge was troubleshooting Gemini model errors and free-tier quota limits, which I diagnosed by testing Gemini directly through LiteLLM.
 
 ## Repository structure
 ```
