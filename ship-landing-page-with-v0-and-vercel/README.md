@@ -2,6 +2,11 @@
 
 # SHIP A LANDING PAGE WITH V0 AND VERCEL
 
+**Project Link:** [View Project](https://nextwork.ai/projects/065fd851-4e5d-5bd2-828b-d653483d86a9)
+
+**Author:** khalabiphiri@protonmail.com  
+**Email:** khalabiphiri@protonmail.com
+
 ## Introducing Today's Project!
 
 In this project, I'm going to develop a web app using v0.dev and then deploy it to production using Vercel
