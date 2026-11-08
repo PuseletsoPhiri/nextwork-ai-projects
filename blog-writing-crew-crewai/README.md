@@ -2,7 +2,10 @@
 
 # BUILD A BLOG WRITING CREW WITH CREWAI
 
+**Project Link:** [View Project](https://nextwork.ai/projects/99b558af-381c-5c9e-afef-a2d5e19992c0)
 
+**Author:** khalabiphiri@protonmail.com  
+**Email:** khalabiphiri@protonmail.com
 
 ## Introducing Today's Project!
 
