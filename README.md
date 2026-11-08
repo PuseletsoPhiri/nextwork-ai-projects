@@ -2,7 +2,7 @@
 
 # NextWork AI Projects
 
-Hands-on AI projects I'm building through [NextWork](https://www.nextwork.org), following the **AI Beginner Roadmap** learnlist. It covers AI agents, workflow automation, and shipping real things with AI tools. Each project has its own folder with a README explaining what I built, what went wrong, and what I learned.
+Hands-on AI projects I completed through [NextWork](https://www.nextwork.org), following the **AI Beginner Roadmap** learnlist. It covers AI agents, workflow automation, and shipping real things with AI tools. Each project has its own folder with a README explaining what I built, what went wrong, and what I learned.
 
 This sits alongside my [AWS Cloud Portfolio](https://github.com/PuseletsoPhiri/aws-cloud-portfolio), which documents my AWS bootcamp work.
 
@@ -12,7 +12,7 @@ This sits alongside my [AWS Cloud Portfolio](https://github.com/PuseletsoPhiri/a
 |---|---------|-------|--------|---------|
 | 1 | [Ship a Landing Page with v0 and Vercel](https://nextwork.ai/projects/065fd851-4e5d-5bd2-828b-d653483d86a9) | v0, Vercel, GitHub | ✅ Done | [Project folder](ship-landing-page-with-v0-and-vercel) |
 | 2 | [Automate Your Calendar with AI](https://nextwork.ai/projects/6ac4b62d-0558-51eb-a3cc-89522aa5cf45) | n8n, ChatGPT (OpenAI), Google Calendar | ✅ Done | [Project folder](automate-calendar-n8n) |
-| 3 | [Build a Blog Writing Crew with CrewAI](https://nextwork.ai/projects/99b558af-381c-5c9e-afef-a2d5e19992c0) | CrewAI, Python, Google Gemini | 🔄 In progress | [Project folder](blog-writing-crew-crewai) |
+| 3 | [Build a Blog Writing Crew with CrewAI](https://nextwork.ai/projects/99b558af-381c-5c9e-afef-a2d5e19992c0) | CrewAI, Python, Google Gemini | ✅ Done | [Project folder](blog-writing-crew-crewai) |
 
 ## Project summaries
 
@@ -22,8 +22,8 @@ Built an e-commerce landing page by describing it in plain English, letting v0 g
 **2. Automate Your Calendar with AI**
 Built an n8n workflow where a chat message such as "book a meeting tomorrow at 3pm" becomes a real Google Calendar event. Covers workflow triggers, the AI Agent node, tools, `$fromAI()` expressions, and system messages.
 
-**3. Build a Blog Writing Crew with CrewAI** (in progress)
-Building a multi-agent system where a Researcher, a Writer, and an Editor work in sequence to produce a blog post, using CrewAI and the free tier of Google Gemini.
+**3. Build a Blog Writing Crew with CrewAI**
+Built a multi-agent system where a Researcher, a Writer, and an Editor work in sequence to produce a blog post, using CrewAI and the free tier of Google Gemini. Covers defining agents and tasks in YAML, chaining tasks in Python, and running a crew that saves its output as a markdown file.
 
 ## Repository structure
 ```
@@ -42,7 +42,7 @@ nextwork-ai-projects/
 | Deployment | Vercel, GitHub pull requests, continuous deployment |
 | Workflow automation | n8n, triggers, AI Agent node, tools, system messages |
 | AI integration | OpenAI chat models, Google Calendar integration, `$fromAI()` expressions |
-| Multi-agent systems | CrewAI agents, tasks, and sequential processes (in progress) |
+| Multi-agent systems | CrewAI agents, tasks, and sequential processes, Google Gemini |
 
 ## Security note
 No API keys, passwords, or credentials are stored in this repository. Keys such as the Gemini API key live in local `.env` files that are excluded from version control.
