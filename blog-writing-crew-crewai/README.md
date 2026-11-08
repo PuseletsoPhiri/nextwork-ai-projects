@@ -1,3 +1,9 @@
+<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+
+# BUILD A BLOG WRITING CREW WITH CREWAI
+
+
+
 ## Introducing Today's Project!
 
 In this project, I'm going to build a multi-agent system using CrewAI to research, write and edit a blog post for me. I'm interested in this because I want to learn how to easily deploy multi-agent systems
